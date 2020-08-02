@@ -26,7 +26,7 @@ I'm open to any collaborations in the fields mentioned above ⚡.
 - ⚡ MailTo: shantaram.adwait17@siesgst.ac.in
 
 ### Links
-<p align="center">
+<p align="left">
     <a href="mailto:shantaram.adwait17@siesgst.ac.in"><img height="35" src="https://github.com/harshagr18/harshagr18/blob/master/images/gmail.png"></a>&nbsp;&nbsp;
     <a href="https://www.linkedin.com/in/adwait-rangnekar/"><img height="35" src="https://github.com/harshagr18/harshagr18/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/AdwaitRangnekar"><img height="35" src="https://github.com/harshagr18/harshagr18/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
