@@ -1,4 +1,4 @@
-### <h6 align="centre">> Introduction</h6>
+### <align="centre">> Introduction
 <p align="justified">
 I'm a senior undergraduate at <a href="https://en.wikipedia.org/wiki/SIES_Graduate_School_of_Technology">SIES GST</a> focusing on various applications of Machine Learning, Data Science & Artificial General Intelligence. I primarily work in Python and R.<br>
 I'm currently involved in developing projects on <a href="https://github.com/adwaitr/AlgorithmicSecuritiesAnalysisPython-ASAP-">Finance</a>, Economics & Policy.
