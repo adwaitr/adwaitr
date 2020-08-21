@@ -32,7 +32,7 @@ I'm open to any collaborations in the fields mentioned above ⚡.
     <a href="https://www.linkedin.com/in/adwait-rangnekar/"><img height="35" src="https://github.com/harshagr18/harshagr18/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/AdwaitRangnekar"><img height="35" src="https://github.com/harshagr18/harshagr18/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/adwait.rangnekar/"><img height="35" src="https://github.com/harshagr18/harshagr18/blob/master/images/instagram.png"></a>&nbsp;&nbsp;
-    <a href="https://linktr.ee/adwaitr"><img height="35" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fisaiahmann.com%2Fimages%2Fsocial-icons%2Flinktree.png&imgrefurl=https%3A%2F%2Fisaiahmann.com%2Fprojects%2Fmind-the-arrow%2F&tbnid=i7Q2VTUx2LNRYM&vet=12ahUKEwi82aX5qKzrAhXkWHwKHX82CSAQMygAegUIARCeAQ..i&docid=tBQozINS0ZHPGM&w=256&h=256&q=linktree%20icon&ved=2ahUKEwi82aX5qKzrAhXkWHwKHX82CSAQMygAegUIARCeAQ"></a>&nbsp;&nbsp;
+    <a href="https://linktr.ee/adwaitr"><img height="35" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f3802aa3-d5d1-45e1-acef-1cb7ba2f1081/dcccqwn-c2c059d2-aa53-452e-88f6-ce70f6bd27b1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZjM4MDJhYTMtZDVkMS00NWUxLWFjZWYtMWNiN2JhMmYxMDgxXC9kY2NjcXduLWMyYzA1OWQyLWFhNTMtNDUyZS04OGY2LWNlNzBmNmJkMjdiMS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.2OqxBcOiTe3qxb4F-zfko3kz88rMHpAEDOeT67OALdw"></a>&nbsp;&nbsp;
 </p>
 </p>
 
