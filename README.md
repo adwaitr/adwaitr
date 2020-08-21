@@ -24,6 +24,7 @@ I'm open to any collaborations in the fields mentioned above ⚡.
 ## > Work
 - ⚡ LinkedIn: linkedin.com/in/adwait-rangnekar/
 - ⚡ MailTo: shantaram.adwait17@siesgst.ac.in
+- ⚡ Linktree: https://linktr.ee/adwaitr
 
 ## > Links
 <p align="left">
@@ -31,5 +32,7 @@ I'm open to any collaborations in the fields mentioned above ⚡.
     <a href="https://www.linkedin.com/in/adwait-rangnekar/"><img height="35" src="https://github.com/harshagr18/harshagr18/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
     <a href="https://twitter.com/AdwaitRangnekar"><img height="35" src="https://github.com/harshagr18/harshagr18/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
     <a href="https://www.instagram.com/adwait.rangnekar/"><img height="35" src="https://github.com/harshagr18/harshagr18/blob/master/images/instagram.png"></a>&nbsp;&nbsp;
+    <a href="https://linktr.ee/adwaitr"><img height="35" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fisaiahmann.com%2Fimages%2Fsocial-icons%2Flinktree.png&imgrefurl=https%3A%2F%2Fisaiahmann.com%2Fprojects%2Fmind-the-arrow%2F&tbnid=i7Q2VTUx2LNRYM&vet=12ahUKEwi82aX5qKzrAhXkWHwKHX82CSAQMygAegUIARCeAQ..i&docid=tBQozINS0ZHPGM&w=256&h=256&q=linktree%20icon&ved=2ahUKEwi82aX5qKzrAhXkWHwKHX82CSAQMygAegUIARCeAQ"></a>&nbsp;&nbsp;
+</p>
 </p>
 
