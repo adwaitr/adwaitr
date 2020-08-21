@@ -22,9 +22,9 @@ I'm open to any collaborations in the fields mentioned above ⚡.
 * 👯 I’m looking to collaborate on Finance, Economics & Policy.
 
 ## > Work
-- ⚡ LinkedIn: linkedin.com/in/adwait-rangnekar/
-- ⚡ MailTo: shantaram.adwait17@siesgst.ac.in
-- ⚡ Linktree: https://linktr.ee/adwaitr
+- ⚡ <a href="https://www.linkedin.com/in/adwait-rangnekar/">LinkedIn</a>
+- ⚡ <a href="mailto:shantaram.adwait17@siesgst.ac.in">Mail</a>
+- ⚡ <a href="https://linktr.ee/adwaitr">Linktree</a>
 
 ## > Links
 <p align="left">
