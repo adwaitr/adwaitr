@@ -1,6 +1,6 @@
 ## > Introduction
 <p align="justified">
-I'm a senior undergraduate at <a href="https://en.wikipedia.org/wiki/SIES_Graduate_School_of_Technology">SIES GST</a> focusing on various applications of Machine Learning, Data Science & Artificial General Intelligence. I primarily work in Python and R.<br>
+I'm a senior undergraduate at <a href="https://en.wikipedia.org/wiki/SIES_Graduate_School_of_Technology">SIES GST</a> focusing on various applications of Machine Learning, Data Science & Artificial General Intelligence. I primarily work in Python.<br>
 I'm currently involved in developing projects on <a href="https://github.com/adwaitr/University-Banking-Interface">Finance</a>, <a href="https://github.com/adwaitr/AlgorithmicSecuritiesAnalysisPython-ASAP-">Economics</a> & <a href="https://github.com/adwaitr/TwitterSentimentAnalysis">Policy</a>.
 I have a deep-rooted interest in philosophy, politics & history.<br>
 I'm open to any collaborations in the fields mentioned above ⚡. 
@@ -14,7 +14,7 @@ I'm open to any collaborations in the fields mentioned above ⚡.
 
 ## > Currently
 * ⚡ Software Development Intern, National Informatics Centre - India.
-* ⚡ Student Member at ISTE & IETE.
+* ⚡ Student Member at ISTE.
 
 ## > Network
 * 🔭 I’m currently working on projects involving Machine Learning & Data Science.
