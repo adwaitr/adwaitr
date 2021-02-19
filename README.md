@@ -13,7 +13,7 @@ I'm open to any collaborations in the fields mentioned above ⚡.
 * 📫 Competitive Coding
 
 ## > Currently
-* ⚡ Software Development Intern, National Informatics Centre - India.
+* ⚡ Working on AIML Project on Financial Markets.
 * ⚡ Student Member at ISTE.
 
 ## > Network
