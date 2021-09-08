@@ -6,17 +6,12 @@ I have a deep-rooted interest in philosophy, politics & history.<br>
 I'm open to any collaborations in the fields mentioned above. 
 </p>
 
-## > Skills
-* 📫 Machine Learning
-* 📫 Data Science
-* 📫 Artificial Intelligence
-* 📫 Competitive Coding
 
 ## > Currently
-* ⚡ Working on AIML Projects on Financial Markets.
+* ⚡ Projects on Financial Markets.
 * ⚡ Developing quantitative models for derivative speculation.
 
-## > Network
+## > Connect
 * 🔭 I’m currently working on projects involving Machine Learning & Data Science.
 * 🌱 I’m currently learning portfolio theory, regression modelling & monetary policy theory. 
 * 👯 I’m looking to collaborate on Finance, Economics & Policy.
