@@ -1,6 +1,6 @@
 ## > Introduction
 <p align="justified">
-I'm an IT engineering undergrad <a href="https://en.wikipedia.org/wiki/SIES_Graduate_School_of_Technology"> from University of Mumbai </a> currently working on applications of Machine Learning, Data Science & Artificial Intelligence. I primarily work in Python.<br>
+I'm an IT engineering undergrad from <a href="https://en.wikipedia.org/wiki/SIES_Graduate_School_of_Technology"> University of Mumbai </a> currently working on applications of Machine Learning, Data Science & Artificial Intelligence. I primarily work in Python.<br>
 Open to work on projects in <a href="https://github.com/adwaitr/University-Banking-Interface">Finance</a>, <a href="https://github.com/adwaitr/AlgorithmicSecuritiesAnalysisPython-ASAP-">Economics</a> & <a href="https://github.com/adwaitr/TwitterSentimentAnalysis">Policy</a>.
 I have a deep-rooted interest in philosophy, politics & history.<br>
 Message me to collaborate in the fields mentioned above. 
