@@ -1,9 +1,9 @@
 ## > Introduction
 <p align="justified">
-I'm an IT engineering undergrad from <a href="https://en.wikipedia.org/wiki/SIES_Graduate_School_of_Technology"> University of Mumbai </a> currently working on applications of Machine Learning, Data Science & Artificial Intelligence. I primarily work in Python.<br>
+I'm an IT engineering undergrad from <a href="https://en.wikipedia.org/wiki/SIES_Graduate_School_of_Technology"> University of Mumbai </a> currently working on applications of Economics, Data Science & Artificial Intelligence.<br>
 Open to work on projects in <a href="https://github.com/adwaitr/University-Banking-Interface">Finance</a>, <a href="https://github.com/adwaitr/AlgorithmicSecuritiesAnalysisPython-ASAP-">Economics</a> & <a href="https://github.com/adwaitr/TwitterSentimentAnalysis">Policy</a>.
 I have a deep-rooted interest in philosophy, politics & history.<br>
-Message me to collaborate in the fields mentioned above. 
+DM to collaborate in the fields mentioned above. 
 </p>
 
 
@@ -12,13 +12,12 @@ Message me to collaborate in the fields mentioned above.
 * ⚡ Developing quantitative models for derivative speculation.
 
 ## > Connect for
-* 🔭 Working on projects involving Machine Learning & Data Science.
-* 🌱 Learning portfolio theory, regression modelling & monetary policy theory. 
-* 👯 Collaborate on Finance, Economics & Policy.
+* 🔭 Working on projects involving research in Data Science.
+* 🌱 Working on Portfolio Theory, Regression Modelling & Monetary Policy. 
 
 ## > Work
 - ⚡ <a href="https://www.linkedin.com/in/adwait-rangnekar/">LinkedIn</a>
-- ⚡ <a href="mailto:shantaram.adwait17@siesgst.ac.in">Mail</a>
+- ⚡ <a href="mailto:adwaitedu@gmail.com">Mail</a>
 - ⚡ <a href="https://linktr.ee/adwaitr">Linktree</a>
 
 ## > Links
