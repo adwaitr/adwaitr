@@ -1,15 +1,11 @@
 ## > Introduction
 <p align="justified">
-I'm an IT engineering undergrad from <a href="https://en.wikipedia.org/wiki/SIES_Graduate_School_of_Technology"> University of Mumbai </a> currently working on applications of Economics, Data Science & Artificial Intelligence.<br>
+I'm an IT engineering undergrad from the University of Mumbai </a> currently working on projects in Economics and Math.<br>
 Open to work on projects in <a href="https://github.com/adwaitr/University-Banking-Interface">Finance</a>, <a href="https://github.com/adwaitr/AlgorithmicSecuritiesAnalysisPython-ASAP-">Economics</a> & <a href="https://github.com/adwaitr/TwitterSentimentAnalysis">Policy</a>.
-I have a deep-rooted interest in philosophy, politics & history.<br>
-DM to collaborate in the fields mentioned above. 
-</p>
-
 
 ## > Currently working on
-* ⚡ Projects on Financial Markets.
-* ⚡ Developing quantitative models for derivative speculation.
+* ⚡ Understanding speculation in Financial Markets.
+* ⚡ Developing models to simplify the Indian Economy.
 
 ## > Connect for
 * 🔭 Working on projects involving research in Data Science.
