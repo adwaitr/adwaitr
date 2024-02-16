@@ -1,6 +1,5 @@
-## > Welcome to my GitHub Profile!
-<p align="justified">
-Background: Computer Science, Data, Math and Economics.<br>
+## > Welcome!
+<br>
 
 ## > Currently ⬇️
 * ⚡ Trading Derivatives on Indian Exchanges.
