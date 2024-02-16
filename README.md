@@ -1,14 +1,13 @@
 ## > Welcome!
-<br>
 
-## > Currently ⬇️
-* ⚡ Trading Derivatives on Indian Exchanges.
+## > Currently
+* ⚡ trading stock options.
 * ⚡ Running a  B2B SaaS firm -> <a href="https://starworks.world/">Starworks</a>
-* ⚡ Pursuing a Master's in Economics from Mumbai University.
+* ⚡ Pursuing a Master's in Economics from University of Mumbai.
 
-## > Reach out for ⬇️
+## > Reach out to me for
 * 🔭 working on projects in Financial Markets.
-* 🔭 collaborating for research in Economics.
+* 🔭 collaboration for research projects in Economics.
 
 ## > Connect with me here ⬇️
 - 🔗 <a href="https://www.linkedin.com/in/adwaitr/">LinkedIn</a>
